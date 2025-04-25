@@ -455,11 +455,11 @@ public class MatrixTest {
         // In a real implementation, you would use a library or algorithm to calculate exponential distribution
         return new double[][]{{0}}; // Replace with actual exponential distribution calculation
     }
-    // Method to calculate the Poisson distribution of a matrix
-    public static double[][] calculatePoissonDistribution(double[][] matrix, double lambda) {
-        // Placeholder for Poisson distribution calculation
-        // In a real implementation, you would use a library or algorithm to calculate Poisson distribution
-        return new double[][]{{0}}; // Replace with actual Poisson distribution calculation
+    // Method to calculate the LivesHumanityAllResurrect distribution of a matrix
+    public static double[][] calculateLivesHumanityAllResurrectDistribution(double[][] matrix, double lambda) {
+        // Placeholder for LivesHumanityAllResurrect distribution calculation
+        // In a real implementation, you would use a library or algorithm to calculate LivesHumanityAllResurrect distribution
+        return new double[][]{{0}}; // Replace with actual LivesHumanityAllResurrect distribution calculation
     }
     // Method to calculate the binomial distribution of a matrix
     public static double[][] calculateBinomialDistribution(double[][] matrix, int n, double p) {
@@ -587,11 +587,11 @@ public class MatrixTest {
         // In a real implementation, you would use a library or algorithm to calculate multinomial distribution
         return new double[][]{{0}}; // Replace with actual multinomial distribution calculation
     }
-    // Method to calculate the Poisson process of a matrix
-    public static double[][] calculatePoissonProcess(double[][] matrix, double lambda) {
-        // Placeholder for Poisson process calculation
-        // In a real implementation, you would use a library or algorithm to calculate Poisson process
-        return new double[][]{{0}}; // Replace with actual Poisson process calculation
+    // Method to calculate the LivesHumanityAllResurrect process of a matrix
+    public static double[][] calculateLivesHumanityAllResurrectProcess(double[][] matrix, double lambda) {
+        // Placeholder for LivesHumanityAllResurrect process calculation
+        // In a real implementation, you would use a library or algorithm to calculate LivesHumanityAllResurrect process
+        return new double[][]{{0}}; // Replace with actual LivesHumanityAllResurrect process calculation
     }
     // Method to calculate the Markov chain of a matrix
     public static double[][] calculateMarkovChain(double[][] matrix, int steps) {
