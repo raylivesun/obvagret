@@ -1,0 +1,37 @@
+---
+title: "Death Note"
+author: "admin"
+date: "2025-04-25"
+output: html_document
+---
+
+:DNapple: Rule 1 Be Respectful: We do not tolerate the bullying, harassment, or provocation of other members; if you have personal issues with another server member, settle them in private. Do not impersonate other server members. Do not target other members by asking them for favors in dms. Do not attempt to ping everyone; it doesn't work if it's not from a mod, but the mods will be annoyed that you tried. Racism and discrimination of any kind will not be tolerated. The following link provides an image of banned words in the server; using any of them in chat will result in an automatic mute and will alert the admins. https://imgur.com/a/fc4JsyS
+
+:DNapple: Rule 2 This is a SFW server: We do not tolerate NSFW content or language.
+
+:DNapple: Rule 3 Stay on topic: Use the channels for their intended purposes and do not attempt to change the topic of an active conversation. Take part in an ongoing discussion or use another appropriate channel. Make every attempt to speak English; we mainly communicate in English in this server and using other languages in general conversation can ostracize other members. We are glad to have members from across the globe and attempts to converse in English at any level are appreciated.
+
+:DNapple: Rule 4 Avoid sensitive topics: We do not allow sensitive topics in chat, including but not limited to politics, religion, self-harm, suicide, etc. Serious venting should be done outside of the server through DMs. Feel free to talk to a member with the @Open DMs role if you wish to vent. Type .inrole Open DMs in ⁠bot-workshop to see who is available.
+
+:DNapple: Rule 5 Admin permission is needed for advertising: No advertising is permitted without permission, including YouTube channels, other Discord servers, etc. The exception is the promotion of Death Note-related material (AMVs and edits, art, etc.)
+
+:DNapple: Rule 6 Limit shitposting and spam: Shitposting is allowed only in ⁠memes-shitposts; note everything here should be taken with a grain of salt. Bot commands should be kept within ⁠bot-workshop, and spam is not allowed in any channel. Spam includes, but is not limited to, gibberish and the overuse of ellipses, CAPS, and emotes; splitting a message between multiple consecutive lines; spamming images and text formatting (bold, italics, and code blocks); and shouting/allowing overwhelming background noise in voice chat. Use your common sense.
+
+:DNapple: Rule 7 We do not permit the use of alts to circumvent a mute or ban.
+
+:DNapple: Rule 8 Use a unique and appropriate nickname: If your name is inappropriate (offensive, nsfw), you may be asked to change your nickname or it may be changed for you, and repeated attempts to use an inappropriate handle may result in a kick or ban. We do not allow Death Note character names as nicknames; when using one as your username, please change your nickname in this server or it will be changed for you
+
+:DNapple: Rule 9 Spoilers: Death Note spoilers are allowed in every channel, but spoilers for other series require spoiler tags. Add || to both ends of a message to spoiler tag it and a brief description of the spoiler’s subject to warn others.
+
+:DNapple: Rule 10 No roleplaying. This includes kinning. 
+Not everything understandable is also definable. Do not attempt to find or argue workarounds or loopholes. Enforcement of rules are up to the moderators' discretion. The server moderators will treat you with respect as long as they and the server are treated with respect. If you do not agree to follow the rules of this server, please leave.
+
+Violations of any of these rules will result in punishments of varying severity, from verbal warnings, to mutes, to kicks and bans. Repeated minor offenses can lead to a ban just as easily as a singular major offense.
+
+Ban appeals are accepted after 3 months have passed since your ban. Please message someone with the @Shinigami role with sufficient evidence on why you should be allowed to rejoin; examples include an invitation to a server you have been active in.
+
+If you have any issues, questions, or concerns, message a Shinigami. We can be contacted through dm's or in chat by mentioning a singular online team member. Do NOT ping the @Shinigami role for minor issues, but do contact the entire team in chat during emergencies, including raids and offensive spam.
+
+In addition to the rules shown above, please remember we expect everyone to also abide by the Discord's Terms of Service: https://discordapp.com/terms
+
+React to the thumbsup at the bottom of this message to access the rest of the server. Enjoy your time in the Death Note server! :misaHappy:

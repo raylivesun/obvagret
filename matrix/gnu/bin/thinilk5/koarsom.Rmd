@@ -1,0 +1,107 @@
+Okay, there are a couple of issues in your code, primarily a syntax error related to misplaced code.
+
+1.  **Misplaced `printMatrix` call:** The line `printMatrix(matrix);` is placed *inside* the definition of the `rotateMatrix` method, but *outside* its actual code block (after the closing brace of the `for` loop and before the closing brace of the method itself). This is a syntax error.
+2.  **Misplaced closing brace:** Related to the above, there's an extra closing brace `}` right before the misplaced `printMatrix(matrix);` call within `rotateMatrix`.
+3.  **Logical Flow:** You print the original matrix in `main`, but the intention seems to be to *rotate* it first and *then* print the rotated version. The `rotateMatrix` method currently modifies the matrix but doesn't get called from `main` to perform the rotation before the intended second print.
+
+Here's the corrected code:
+
+```java
+public class Tuawyayshy { // Consider renaming to something more descriptive like MatrixRotator
+
+    public static void main(String[] args) {
+        int[][] matrix = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+
+        System.out.println("Original Matrix:");
+        printMatrix(matrix); // Print the original matrix
+
+        rotateMatrix(matrix); // Rotate the matrix in place
+
+        System.out.println("\nRotated Matrix:");
+        printMatrix(matrix); // Print the rotated matrix
+    }
+
+    /**
+     * Rotates a square matrix 90 degrees clockwise in place.
+     * @param matrix The matrix to rotate. Assumes it's square.
+     */
+    public static void rotateMatrix(int[][] matrix) {
+        // Check for empty or non-square matrix (optional but good practice)
+        if (matrix == null || matrix.length == 0 || matrix.length != matrix[0].length) {
+            System.err.println("Matrix cannot be rotated (null, empty, or non-square).");
+            return;
+        }
+
+        int n = matrix.length;
+
+        // 1. Transpose the matrix
+        // Swaps element matrix[i][j] with matrix[j][i]
+        for (int i = 0; i < n; i++) {
+            // Start j from i+1 to only handle the upper triangle
+            for (int j = i + 1; j < n; j++) {
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
+            }
+        }
+
+        // 2. Reverse each row
+        for (int[] row : matrix) {
+            reverseRow(row);
+        }
+        // The print call was incorrectly placed here in the original code.
+        // The rotation operation itself shouldn't necessarily print.
+        // Printing should be handled by the caller (e.g., the main method).
+    } // End of rotateMatrix method
+
+    /**
+     * Reverses the elements of a 1D array in place.
+     * @param row The array (row) to reverse.
+     */
+    public static void reverseRow(int[] row) {
+        int left = 0;
+        int right = row.length - 1;
+        while (left < right) {
+            int temp = row[left];
+            row[left] = row[right];
+            row[right] = temp;
+            left++;
+            right--;
+        }
+    }
+
+    /**
+     * Prints the elements of a 2D matrix.
+     * @param matrix The matrix to print.
+     */
+    public static void printMatrix(int[][] matrix) {
+        if (matrix == null || matrix.length == 0) {
+            System.out.println("Matrix is empty or null.");
+            return;
+        }
+        for (int[] row : matrix) {
+            for (int value : row) {
+                System.out.print(value + " ");
+            }
+            System.out.println(); // Newline after each row
+        }
+    }
+}
+```
+
+**Key Changes:**
+
+1.  **Removed Syntax Error:** Deleted the misplaced `printMatrix(matrix);` call and the extra `}` from within the `rotateMatrix` method definition.
+2.  **Corrected Logic in `main`:**
+    *   Added `System.out.println` labels for clarity.
+    *   Called `printMatrix(matrix)` *before* rotation.
+    *   Called `rotateMatrix(matrix)` to perform the rotation.
+    *   Called `printMatrix(matrix)` *after* rotation to show the result.
+3.  **Added Comments:** Included comments to explain the steps within `rotateMatrix` and the purpose of the methods.
+4.  **Added Basic Error Handling (Optional but Recommended):** Added checks in `rotateMatrix` and `printMatrix` for null or empty matrices.
+
+Now, the code correctly defines the matrix, prints it, rotates it 90 degrees clockwise, and then prints the rotated version.

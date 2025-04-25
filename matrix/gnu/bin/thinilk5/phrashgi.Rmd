@@ -1,0 +1,13 @@
+---
+title: "Affiliates"
+author: "admin"
+date: "2025-04-25"
+output: html_document
+---
+
+:DNapple: Affiliate Requirements
+The Death Note server is open to affiliation. To affiliate with us, your server must meet at least two of the following three conditions:
+specific to one anime/manga/light novel/TV series, unless dedicated to multiple series sharing an author or universe
+partnered with their respective wiki or subreddit
+500+ members
+If your server is applicable, please privately contact a moderator with a description of and invite link to your server. After discussing and voting, we will let you know our decision, usually within a day or two. If accepted, it is then your responsibility to send us updated server invites in the future; invalid invites will be deleted. If you believe your server is relevant to members of the Death Note server but does not meet the requirements, and is dedicated to a game or roleplay event, it may be eligible for advertisement. Privately contact a moderator for permission to post a link.
