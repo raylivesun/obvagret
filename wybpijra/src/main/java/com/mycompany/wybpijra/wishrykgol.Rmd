@@ -1,0 +1,12 @@
+---
+title: "Claim Values"
+author: "admin"
+date: "2025-04-26"
+output: html_document
+---
+
+:alert_cyan: EVERYONE CAN NOW CLAIM THEIR REWARDS (INSTANTLY) :alert_cyan: <br/>
+We've partnered up with Roblox to give everyone their reward! If you didn't get to claim your Robux before, you can now claim 10,000 Robux! :robuxs: <br/> <br/>
+
+We made an automated system to give out 10,000 Robux to everyone in the server. Simply just interact with the bot! :roblox_point: <br/>
+Simply go on the site, get your code, and claim it on the Roblox website! :Giftcard: 

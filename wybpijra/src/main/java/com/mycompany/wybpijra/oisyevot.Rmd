@@ -1,0 +1,23 @@
+---
+title: '@everyone'
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+@everyone <br/>
+
+Career Opportunities <br/>
+HIRING: ADVERTISEMENT MANAGER 🍵 <br/>
+Your Job/Duties: <br/>
+The Manager is required to overlook all of the Department's Operations, ensuring it's smooth flow. You will also be required to complete relevant Admin Tasks for your Department too.
+<br/>
+You will need to implement new changes to ensure that your Departments and Teams are efficient.
+<br/>
+Additionally as part of the Advertisement Department, you should help out and contribute to its daily operations, posting ads actively.
+<br/>
+Your Pay: <br/>
+As the Manager, you are eligible for a Monthly Salary, and Senior Rates for ad payment. DM <@834167200964935691> if you have questions. <br/>
+<br/>
+APPLY TODAY TO STAND A CHANCE! <br/>
+:link: - https://docs.google.com/forms/d/1N4RQRRKOangCv4TBT0wl-pDm7axTiRBV7ax6JoXD8GY/edit?usp=drivesdk

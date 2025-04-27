@@ -1,0 +1,33 @@
+---
+title: "Hunters"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+🧊 Hunters, prepare yourselves — Major Update 1 is arriving at 
+the end of April.​ <br/>
+
+The Road to Genesis is about to undergo a significant transformation, introducing new layers of gameplay depth, refinement, and excitement.​ <br/>
+
+Here’s a glimpse of what awaits in the mine and beyond:​ <br/>
+
+💥 Expanded Arsenal: New weapon attachments, refined grenade mechanics, and evasive rolls will make combat more tactical. Sharpen your reflexes and strategies.​ <br/>
+
+🎯 Dynamic Objectives: Missions are evolving with non-linear goals and routes, challenging your adaptability and exploration skills.​ <br/>
+
+🔫 Weapon Variations: Diversify your loadout with new weapon options to define your combat style and dominate the battlefield.​ <br/>
+
+🖥️ Enhanced Experience: Enjoy a cleaner UI, improved data tracking, and smoother gameplay for a refined experience.​ <br/>
+
+⚠️ Legacy Enemies: Some familiar foes return in non-AI forms as we focus on dynamic gameplay features.​ <br/>
+
+🎁 Mysterious Crates: Discover strange crates in the depths of the mine. Extract the right resources to craft intriguing items—rare components and hidden powers.​ <br/>
+
+🏠 Headquarters Access: By the end of MU1, access the central HQ hub. What you bring from the mine could shape your path forever.​ <br/>
+
+Before MU1 drops, we’ll launch the Hunter Program: Chapter III, offering a final chance to prove your worth, climb the ranks, and claim rewards before the next stage unfolds.​
+<br/>
+The road ahead is icy, dangerous, and full of surprises. Just the way you like it.​
+<br/>
+As MU1 approaches, we’ll showcase all the new gameplay content and features it will bring!

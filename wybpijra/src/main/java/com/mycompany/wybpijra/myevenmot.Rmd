@@ -1,0 +1,34 @@
+---
+title: "Security"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+:signal13:  Security Notice – Token Incident Update :signal13: <br/> <br/>
+
+We want to be fully transparent with you: our token is currently the target of a hack attempt. Suspicious on-chain activity has been detected, and this is a real-time situation our team is actively working to resolve. <br/> <br/>
+
+ What we're doing: <br/> 
+    •            Our entire team is mobilized and working hand-in-hand with blockchain security experts to trace the attacker and mitigate the impact. <br/>
+    •            We are in direct contact with MEXC, who suspended deposit and withdrawal.
+    •            As a security measure, we have also removed liquidity from Uniswap to limit further exploitation. <br/> <br/>
+
+:signal13:  :signal13:  :signal13:  <br/> <br/>
+️ Important for all holders:<br/>
+    •            It is normal if you are currently unable to transfer your tokens — this is part of the containment measures. <br/>
+    •            Do not interact with any suspicious links or messages pretending to offer "refunds" or "airdrops" — they are scams. <br/>
+    •            Please refrain from making any token-related transactions until we give the all-clear. <br/><br/>
+
+We understand this is concerning, but we are doing everything in our power to protect our ecosystem and community. Your funds' safety is our top priority.
+<br/>
+Our tech team is fully engaged in identifying the exact cause of the attack.
+We are collaborating closely with blockchain security experts and the exchanges involved.
+A comprehensive protection and recovery plan is already being prepared.
+<br/>
+We understand how shocking and frustrating this situation is, and we’re committed to full transparency and providing regular updates here.
+<br/><br/>
+
+Thank you for your continued trust and patience.
+ We will keep you updated with verified and transparent information as the situation evolves. <br/>
+We’re on it — and we won’t let this go unanswered. 

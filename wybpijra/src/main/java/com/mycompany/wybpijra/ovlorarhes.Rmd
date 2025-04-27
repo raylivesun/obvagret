@@ -1,0 +1,42 @@
+---
+title: "Developer Studios – Pricing List (Basic & Advanced)"
+author: "admin"
+date: "2025-04-26"
+output: html_document
+---
+
+Developer Studios – Pricing List (Basic & Advanced)
+Affordable pricing for high-quality development work. Prices may vary slightly based on complexity — we work with your budget.<br/> <br/>
+
+Scripting / Systems <br/>
+• Basic: 100 – 250 Robux (leaderstats, dash, sprint, simple tools/UI) <br/>
+• Advanced: 300 – 800+ Robux (combat systems, data saves, gacha, stat scaling, custom mechanics) <br/> <br/>
+
+Animations <br/>
+• Basic: 75 – 150 Robux (idle, swing, pose, walk/run cycles) <br/>
+• Advanced: 200 – 350 Robux (combat combos, special moves, transformation sequences) <br/> <br/>
+
+VFX / SFX <br/>
+• Basic VFX: 100 – 200 Robux (slashes, glows, trails, power-ups) <br/>
+• Advanced VFX: 300 – 600+ Robux (AoE, transformation, cinematic finishers) <br/>
+• Basic SFX: 50 – 100 Robux (swings, hits, small sounds) <br/>
+• Advanced SFX: 150 – 250 Robux (synced, layered sound effects) <br/>
+
+UI Design <br/>
+• Basic: 150 – 300 Robux (frames, buttons, health bars, small menus) <br/>
+• Advanced: 400 – 1,000+ Robux (full menus, HUDs, inventory/shop systems) <br/>
+
+Modeling <br/>
+• Basic: 100 – 200 Robux (swords, accessories, tools) <br/>
+• Advanced: 300 – 1,000+ Robux (detailed weapons, rigged tools/NPCs) <br/> <br/>
+
+We Accept: <br/>
+• Robux (Group Payouts or Gamepass) <br/>
+• PayPal <br/>
+• Cash App <br/>
+• Game % (for select projects only) <br/> <br/>
+
+Ready to hire? Got a custom request?  make a ticket. We’ll reply quickly if not 
+busy and work with your needs. <br/> <br/>
+
+https://discord.gg/8yPbRK6N <br/>

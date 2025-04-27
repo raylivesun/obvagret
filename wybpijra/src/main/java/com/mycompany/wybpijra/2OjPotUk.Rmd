@@ -1,0 +1,10 @@
+---
+title: "Winners"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+The winners are @𝓘𝓣𝓩_𝓢𝓞𝓛𝓐𝓡 and @bvf 🎉 scoring the same amount <br/>
+of clothes again The prize will be splitted, 150 for each person <br/>
+if dice gets less than 3 = its solar gets rank, if higher = bvf <br/>

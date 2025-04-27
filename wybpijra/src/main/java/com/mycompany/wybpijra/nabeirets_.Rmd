@@ -1,0 +1,11 @@
+---
+title: "Submit Now"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+The designer who submits the most clothes in 24 hours will win 300 ROBUX! 🎁   <br/>
+and @🌠 | Design Star role :Money: <br/>
+SUBMIT NOW!: ⁠📩・submit-design <br/>
+@everyone

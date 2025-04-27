@@ -1,0 +1,26 @@
+---
+title: "Warp-Terminal"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+:LOGO:  Update on $OXYZ Situation :LOGO: <br/> <br/>
+
+We know this is a tough moment, and we want to reassure you:
+<br/><br/>
+
+✅ All affected $OXYA holders will receive a 1:1 airdrop of the new token once the new contract is deployed. <br/><br/>
+📅 Estimated timeline: Too soon to say — we’ll keep you updated step by step.
+<br/><br/>
+🔒 <br/><br/>
+ If your tokens are staked:
+You do NOT need to unstake.
+<br/>
+Also, all the NFTs are safe.
+<br/>
+:LOGO:  In light of this incident, we are also reviewing the timeline for the Hunters Program Chapter 3 and MU1. Resolving the token breach and regaining community trust is our top priority. Given the current devaluation of OXYZ (approx. 90% drop), launching a new chapter now could hurt participation. We’ll involve the community in deciding whether a short postponement makes sense, and share updates very soon.
+<br/>
+Thanks for standing by us. We’re handling everything with security partners and will bounce back stronger. <br/>
+:LOGO: The Oxya Origin Team
+@everyone 

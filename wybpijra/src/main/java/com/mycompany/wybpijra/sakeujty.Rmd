@@ -1,0 +1,36 @@
+---
+title: "Developer Marketing Free lance"
+author: "admin"
+date: "2025-04-26"
+output: html_document
+---
+
+🎮 Game Concept: <br/>
+Name: Wasteseas: Tides of Ruin <br/>
+🌊⚛️ Setting:<br/>
+A drowned post-apocalyptic world — after a nuclear war melted the ice caps, Earth is 90% ocean. Remnants of civilization dot the waves: crumbling skyscraper islands, rusted warships, irradiated atolls, and sunken vaults filled with lost tech and mutated horrors.
+<br/>
+🧭 Gameplay: <br/>
+Open-world co-op sailing (like Sea of Thieves) across massive oceans filled with derelict ruins, mutant sea beasts, and enemy crews. <br/>
+Ship customization with salvaged tech: nuclear engines, makeshift harpoon 
+launchers, mutated figureheads that give buffs, etc. <br/>
+On-land exploration of ruined cities and underground bunkers in Fallout-style 
+quests with moral choices, NPC factions, and loot. <br/>
+Survival mechanics: radiation zones, hunger/thirst, scavenging supplies. <br/>
+Faction War: Pirate clans, Vault Survivors, and mutant cults fighting over 
+territory and tech. <br/>
+
+💀 Enemies: <br/>
+Mutant leviathans <br/>
+Raider pirate crews with homemade power armor <br/>
+Robot sea sentries from an old pre-war defense network <br/>
+Ghost ships warped by radiation storms <br/>
+
+🧰 Tone & Style: <br/>
+Pirate swagger and humor, but gritty and grimy like Fallout <br/>
+Rum mixed with RadAway <br/>
+Shanties about nuclear winters and lost vaults <br/>
+Companions with tragic backstories and snarky lines <br/>
+
+🔗 Discord Server Link <br/>
+https://discord.gg/7Ypa2HCrnY <br/>

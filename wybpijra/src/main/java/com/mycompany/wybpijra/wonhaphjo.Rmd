@@ -1,0 +1,10 @@
+---
+title: "Event Alert"
+author: "admin"
+date: "2025-04-27"
+output: html_document
+---
+
+@📅 | Event Alerts <br/> <br/>
+
+Event ending very soon! ⌛ SUBMIT NOW! ⁠📩・submit-design ✅
