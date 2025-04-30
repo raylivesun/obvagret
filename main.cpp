@@ -14,6 +14,7 @@
 #include <memory>
 using namespace std;
 
+
 // This is a simple example of exporting a C++ function to R. You can
 // source this function into an R session using the Rcpp::sourceCpp 
 // function (or via the Source button on the editor toolbar). Learn
